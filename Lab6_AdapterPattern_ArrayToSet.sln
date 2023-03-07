@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6_AdapterPattern_ArrayToSet", "Lab6_AdapterPattern_ArrayToSet\Lab6_AdapterPattern_ArrayToSet.csproj", "{B7BA9F45-E061-433E-8C5E-15C198615611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConverterArraySetAdapterLib", "ConverterArraySetAdapterLib\ConverterArraySetAdapterLib.csproj", "{EC905E85-637D-43C0-BEFA-7626D19307B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7BA9F45-E061-433E-8C5E-15C198615611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7BA9F45-E061-433E-8C5E-15C198615611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7BA9F45-E061-433E-8C5E-15C198615611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7BA9F45-E061-433E-8C5E-15C198615611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC905E85-637D-43C0-BEFA-7626D19307B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC905E85-637D-43C0-BEFA-7626D19307B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC905E85-637D-43C0-BEFA-7626D19307B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC905E85-637D-43C0-BEFA-7626D19307B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E70F015-CDAF-4B83-BB83-D8F4EF2187EF}
+	EndGlobalSection
+EndGlobal

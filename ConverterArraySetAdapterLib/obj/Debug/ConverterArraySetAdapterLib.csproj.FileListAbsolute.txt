@@ -1,0 +1,6 @@
+D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab6_AdapterPattern_ArrayToSet\ConverterArraySetAdapterLib\bin\Debug\ConverterArraySetAdapterLib.dll
+D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab6_AdapterPattern_ArrayToSet\ConverterArraySetAdapterLib\bin\Debug\ConverterArraySetAdapterLib.pdb
+D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab6_AdapterPattern_ArrayToSet\ConverterArraySetAdapterLib\obj\Debug\ConverterArraySetAdapterLib.csproj.AssemblyReference.cache
+D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab6_AdapterPattern_ArrayToSet\ConverterArraySetAdapterLib\obj\Debug\ConverterArraySetAdapterLib.csproj.CoreCompileInputs.cache
+D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab6_AdapterPattern_ArrayToSet\ConverterArraySetAdapterLib\obj\Debug\ConverterArraySetAdapterLib.dll
+D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab6_AdapterPattern_ArrayToSet\ConverterArraySetAdapterLib\obj\Debug\ConverterArraySetAdapterLib.pdb
